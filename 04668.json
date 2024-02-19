@@ -1,1 +1,22 @@
+{
+    "trainNo": 04468,
+    "from": "BRML",
+    "to": "SGDN",
+    "name": "BRML-BAHL-SGDN",
+    "route": [
+      {
+        "sequence": 1,
+        "code": "BRML",
+        "departure": "09.30",
+        "arrival": "First",
+        "distance": 0,
+        "name": "Baramulla",
+        "longitude": 75.1889437437058,
+        "latitude": 33.4512446677858
+      }
+    
+    ]
 
+
+  
+}
